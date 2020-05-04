@@ -1,0 +1,12 @@
+{
+  "name": "dotdotdot",
+  "version": "1.0.0",
+  "description": "twitter_bot",
+  "main": "dotdotdot.js",
+  "scripts": {
+    "test": "test",
+    "start": "node dotdotdot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
