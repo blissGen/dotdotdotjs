@@ -1,1 +1,0 @@
-worker: node dotdotdot.js
